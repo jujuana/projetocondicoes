@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(/assets/images.jfif);
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: rgba(48, 100, 59, 0.616);
+    
+   
+
+
+}
+main{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px;
+}

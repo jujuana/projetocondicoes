@@ -1,0 +1,44 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url(/assets/velocidade-fotor-20230615172024.jpg);
+    background-size: cover;
+    color: aliceblue;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+    margin: 100px;
+
+}
+#button{
+    justify-content: center;
+    margin-top: 180px;
+    border-radius: 10px;
+    width: 100px;
+    color:aliceblue;
+    background-color: rgba(255, 68, 0, 0);
+}
+#res{
+    color: aliceblue;
+}
+.numeros{
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+}
+main{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+#vel{
+    width: 300px;
+    background-color: rgba(240, 248, 255, 0);
+    color: white;
+}
